@@ -1,29 +1,59 @@
-# NGO Website Boilerplate
-[Deployed site](https://ngo-website-boilerplate.vercel.app/)
 
-This project is a boilerplate for creating responsive and modern NGO (Non-Governmental Organization) websites using React.js and Tailwind CSS. Designed with a focus on clean design, ease of use, and scalability, this boilerplate provides a solid foundation for quickly building and deploying NGO websites.
+```markdown
+# NGO Website
+
+This is an NGO website built using React, Vite, and Tailwind CSS as a part of a task. The website is hosted on Netlify.
+
+## Table of Contents
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Demo
+You can view the live website [here](<your-netlify-link>).
 
 ## Features
+- Clean and modern UI using Tailwind CSS.
+- Easy navigation to key sections of the NGO website.
 
-- **Responsive Design**: Fully responsive and mobile-friendly, ensuring a seamless user experience across all devices.
-- **Modern Technologies**: Built with React.js and Tailwind CSS for fast development and easy customization.
-- **Reusable Components**: Modular and reusable components to speed up development and maintain consistency across the site.
-- **Easy Customization**: Simple structure and clean code, making it easy to customize and extend according to specific project requirements.
+## Technologies
+- **Frontend**: React, Vite, Tailwind CSS
+- **Hosting**: Netlify
 
 ## Installation
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/ngo-website.git
-    cd ngo-website
-    ```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/NGO-website.git
+   ```
 
-2. **Install dependencies**:
-    ```bash
-    npm install
-    ```
+2. Navigate to the project directory:
+   ```bash
+   cd NGO-website
+   ```
 
-3. **Start the server**:
-    ```bash
-    npm run dev
-    ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Usage
+- Browse through different sections of the NGO website.
+- Explore the responsive UI built using Tailwind CSS.
+
+## Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
+```
+
