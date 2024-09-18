@@ -5,13 +5,13 @@
 This is an NGO website built using React, Vite, and Tailwind CSS as a part of a task. The website is hosted on Netlify.
 
 ## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Demo]
+- [Features]
+- [Technologies]
+- [Installation]
+- [Usage]
+- [Contributing]
+- [License]
 
 ## Demo
 You can view the live website [here](<your-netlify-link>).
