@@ -14,7 +14,7 @@ This is an NGO website built using React, Vite, and Tailwind CSS as a part of a 
 - [License]
 
 ## Demo
-You can view the live website [here]https://ngo-website-react.netlify.app/.
+You can view the live website here https://ngo-website-react.netlify.app/.
 
 ## Features
 - Clean and modern UI using Tailwind CSS.
